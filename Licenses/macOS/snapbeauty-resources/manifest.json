@@ -2,11 +2,6 @@
   "schema": 1,
   "description": "Open-licensed LUTs resampled, quantized and adjusted with six global color parameters.",
   "licenses": {
-    "CC-BY-SA-4.0": {
-      "sourcePath": "resources/licenses/CC-BY-SA-4.0.txt",
-      "sha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5",
-      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
-    },
     "CC-BY-4.0": {
       "sourcePath": "resources/licenses/CC-BY-4.0.txt",
       "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
@@ -27,13 +22,6 @@
       "baseCollection": "Q-DDL",
       "licenseId": "CC-BY-4.0",
       "sha256": "9868789d6872265ab7dd3d40697c74dbdadaa5e1da96541b1a19bb65b049d28f"
-    },
-    {
-      "target": "bright3",
-      "baseSource": "rt:HaldCLUT/Color/CreativePack-1/TealMagentaGold.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "18eb45b94622f4391b6902a829438c7fcb76466518d0c0ff9fd1b29159907b40"
     },
     {
       "target": "bright4",
@@ -57,13 +45,6 @@
       "sha256": "e6ee38916bdeb9912730d86d83d35751d9e36b8b08ae0f8014e87aa10293b294"
     },
     {
-      "target": "rose3",
-      "baseSource": "rt:HaldCLUT/Color/Kodak/Kodak Kodachrome 200.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "e588e91615fb2727aaeb85cc58f807ab7e08567298061e13c7a44c077c0f714b"
-    },
-    {
       "target": "rose7",
       "baseSource": "cinematic/Q-DDL_Pack_4/Alexander.cube",
       "baseCollection": "Q-DDL",
@@ -78,25 +59,11 @@
       "sha256": "defe84baeb429007710a4d3e623bbd1612d2a1c1b3cb4dc2193e59f5533a7c51"
     },
     {
-      "target": "stylized11",
-      "baseSource": "rt:HaldCLUT/Color/Polaroid/Polaroid 690 Cold 5 ++.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "76008f6d7a1543d24f187045886ee47819d02386a8127e50119c24c8a8f8006a"
-    },
-    {
       "target": "stylized5",
       "baseSource": "cinematic/Q-DDL_Pack_5/Dodson.cube",
       "baseCollection": "Q-DDL",
       "licenseId": "CC-BY-4.0",
       "sha256": "dd63372694b1adcc7a7a61f3372ddbbadd7a25da7fb879c74313be845174fb00"
-    },
-    {
-      "target": "mono1",
-      "baseSource": "rt:HaldCLUT/Black-and-White/Kodak/Kodak BW 400 CN.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "2adb0e316f2a5d77ccb092bf1a5994bdde065c122bc221aa96a3fa494ea215b6"
     },
     {
       "target": "cool1",
@@ -134,27 +101,6 @@
       "sha256": "fefadf17f7cfb85ff6f2e627387c4909c925c2ca8a731e338e0b36e260b7d8b6"
     },
     {
-      "target": "warm1",
-      "baseSource": "rt:HaldCLUT/Color/Kodak/Kodak Portra 400 1 -.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "89cd1f29ca63fc994d9799ddaf9eb149aa883b157f4b1f5d133962ad9cd4d81c"
-    },
-    {
-      "target": "warm2",
-      "baseSource": "rt:HaldCLUT/Color/Polaroid/Polaroid 669 4 +.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "f90b5781d42c5de44bdbd603d162989867b61e28cbad6a3b512b1ea8d0f7f920"
-    },
-    {
-      "target": "fresh1",
-      "baseSource": "rt:HaldCLUT/Color/Fuji/Fuji Superia X-Tra 800.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "c5c6a53cf4b2634eed42c928db18c7850f4567043c6c17ed045ee9ef0460d32d"
-    },
-    {
       "target": "fresh2",
       "baseSource": "cinematic/Q-DDL_Pack_3/York.cube",
       "baseCollection": "Q-DDL",
@@ -176,32 +122,11 @@
       "sha256": "135ad4e4e1bb2453237e3fcdb5f355244406ad2495018c63fb53c2d69c8d3be5"
     },
     {
-      "target": "muted5",
-      "baseSource": "rt:HaldCLUT/Color/CreativePack-1/SoftWarming.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "8c57c847c60ba985191f4e817d160775dd7c00bd8963b48a19f68a7af05edcf5"
-    },
-    {
       "target": "natural1",
       "baseSource": "color-moods/Q-DDL_Pack_17/Luna.cube",
       "baseCollection": "Q-DDL",
       "licenseId": "CC-BY-4.0",
       "sha256": "d76634a9c0564f059dc2ea904228ceea1828ad299add88eb38098a8c8fd3ae74"
-    },
-    {
-      "target": "natural2",
-      "baseSource": "rt:HaldCLUT/Color/Kodak/Kodak Portra 400 NC 1 -.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "58dad20d4809c0a4a7d9ea7f64982e1971198b90359c42095838b583978f785f"
-    },
-    {
-      "target": "natural4",
-      "baseSource": "rt:HaldCLUT/Color/Fuji/Fuji Superia 400 1 -.png",
-      "baseCollection": "RawTherapee",
-      "licenseId": "CC-BY-SA-4.0",
-      "sha256": "e8ca3e08ee2048e98010eda95fbd93ec6c6f657d1bd5a2ea61372ff892acc8b5"
     }
   ]
 }
