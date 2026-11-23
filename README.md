@@ -1,4 +1,4 @@
-# SnapBeauty macOS SDK 1.3.2
+# SnapBeauty macOS SDK 1.3.5
 
 Requires macOS 12 or later and Apple silicon (arm64).
 
@@ -8,3 +8,5 @@ models, filters, and Metal shaders. Obtain a separate macOS license bound to
 your app's Bundle ID.
 
 See `NOTICE.md` and `Licenses/macOS/` for third-party attribution.
+
+Optional Metal GPU inference is available through the SnapBeautyGPUMacOS product. Without it, the SDK uses the CPU runtime.
