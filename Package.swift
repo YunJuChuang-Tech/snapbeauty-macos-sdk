@@ -9,8 +9,8 @@ let package = Package(
         .library(name: "SnapBeautyGPUMacOS", targets: ["SnapBeautyGPUMacOS"]),
     ],
     targets: [
-        .binaryTarget(name: "SnapBeautyMacOS", url: "https://github.com/YunJuChuang-Tech/snapbeauty-macos-sdk/releases/download/1.3.5/SnapBeauty-macOS-1.3.5.xcframework.zip", checksum: "2e1792b3cfcd289238c4cf14ac0be1573b3141cb938ce2149efce00abed8bd5d"),
-        .binaryTarget(name: "SnapBeautyGPUMacOS", url: "https://github.com/YunJuChuang-Tech/snapbeauty-macos-sdk/releases/download/1.3.5/SnapBeautyGPU-macOS-1.3.5.xcframework.zip", checksum: "d37fdf0bc92e959075e364d0e1a2ccd8de7e0580bf65717daef262e11f61172f"),
+        .binaryTarget(name: "SnapBeautyMacOS", url: "https://github.com/YunJuChuang-Tech/snapbeauty-macos-sdk/releases/download/1.3.6/SnapBeauty-macOS-1.3.6.xcframework.zip", checksum: "3fdc5ab2774f913fa40408a5eade5e3c8d17fd9d59399846494bf84276b0cfb7"),
+        .binaryTarget(name: "SnapBeautyGPUMacOS", url: "https://github.com/YunJuChuang-Tech/snapbeauty-macos-sdk/releases/download/1.3.6/SnapBeautyGPU-macOS-1.3.6.xcframework.zip", checksum: "5c9c354e6820fa956154a27cabf9f6045bc221603fa8239288643b8c09bcda64"),
         .target(
             name: "SnapBeautyMacOSResources",
             dependencies: ["SnapBeautyMacOS"],
