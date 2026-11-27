@@ -1,4 +1,4 @@
-# SnapBeauty macOS SDK 1.3.6
+# SnapBeauty macOS SDK 1.3.9
 
 Requires macOS 12 or later and Apple silicon (arm64).
 
